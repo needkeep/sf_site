@@ -1,7 +1,7 @@
 # sf_site
 
 
-Расположение 
+Расположение https://github.com/needkeep/sf_site/blob/main/micro.py
 
 Main – это всегда актуальная версия существующего кода.
 
